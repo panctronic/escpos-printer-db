@@ -1,0 +1,16 @@
+---
+ ZJ-8250:
+  name: ZJ-8250
+  vendor: Zjiang
+  inherits: default
+  notes: Known by many names, http://www.zjiang.com/en/init.php/product/index?id=36
+  codePages:
+    0: CP437
+    1: CP932
+    2: CP850
+    3: CP860
+    4: CP863
+    5: CP865
+    16: CP1252
+    17: CP866
+    18: CP852
